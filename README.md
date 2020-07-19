@@ -8,7 +8,7 @@ Kill them all!
 - A
 - D
 - ESC (to exit)
-
+- MB1 (to shoot)
 
 
 //HAVE FUN!\\
