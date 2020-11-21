@@ -1,4 +1,4 @@
-# SwagLords-of-Space
+# Lords-of-Space
 Kill them all!
 
 
